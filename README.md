@@ -1,5 +1,6 @@
 # RuSentNE-evaluation
 # Соревнование по анализу тональности к именованным сущностям в новостных текстах
+### [Ссылка на соревнования в системе Codalab](https://codalab.lisn.upsaclay.fr/competitions/9538)
 
 Анализ тональности текста — извлечение выраженной в тексте эмоциональной оценки к некоторой сущности — одно из наиболее активно развивающихся направлений в автоматической обработке текстов. 
 
@@ -30,5 +31,6 @@
 * [Русначенко Н.Л.](https://nicolay-r.github.io/) (Newcastle University)
 
 ## Ссылки:
+[**Codalab:** Named Entity Oriented Sentiment Analysis Task (RuSentNE-2023)](https://codalab.lisn.upsaclay.fr/competitions/9538)
 
 ## Источники:
