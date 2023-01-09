@@ -37,6 +37,11 @@
 * [Русначенко Н.Л.](https://nicolay-r.github.io/) (Newcastle University)
 
 ## Ссылки:
+
 [**Codalab:** Named Entity Oriented Sentiment Analysis Task (RuSentNE-2023)](https://codalab.lisn.upsaclay.fr/competitions/9538)
 
 ## Источники:
+
+[Официальная страница задачи RuSentNE на сайте Dialogue-2023](https://www.dialog-21.ru/evaluation/2023/rusentne/)
+
+[Официальная информация по конференции Dialogue-2023](https://www.dialog-21.ru/information2023/)
