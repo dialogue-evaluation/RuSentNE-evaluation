@@ -2,6 +2,7 @@
 
 ### [Ссылка на соревнования в системе Codalab](https://codalab.lisn.upsaclay.fr/competitions/9538)
 ### [Таблица результатов](https://codalab.lisn.upsaclay.fr/competitions/9538#results)
+### [Telegram канал соревнований](https://t.me/rusentne2023)
 
 ## Описание:
 
@@ -45,3 +46,5 @@
 [Официальная страница задачи RuSentNE на сайте Dialogue-2023](https://www.dialog-21.ru/evaluation/2023/rusentne/)
 
 [Официальная информация по конференции Dialogue-2023](https://www.dialog-21.ru/information2023/)
+
+[Telegram канал соревнований](https://t.me/rusentne2023)
