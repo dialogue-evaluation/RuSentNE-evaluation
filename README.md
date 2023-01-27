@@ -1,4 +1,5 @@
 # RuSentNE-2023: Соревнование по анализу тональности к именованным сущностям в новостных текстах
+[![](https://img.shields.io/badge/telegram-blue?logo=telegram)](https://t.me/rusentne2023)
 
 ### [Ссылка на соревнования в системе Codalab](https://codalab.lisn.upsaclay.fr/competitions/9538)
 ### [Таблица результатов](https://codalab.lisn.upsaclay.fr/competitions/9538#results)
