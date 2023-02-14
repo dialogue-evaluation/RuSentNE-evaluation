@@ -2,6 +2,7 @@
 [![](https://img.shields.io/badge/telegram-blue?logo=telegram)](https://t.me/rusentne2023)
 
 ### [Ссылка на соревнования в системе Codalab](https://codalab.lisn.upsaclay.fr/competitions/9538)
+### :alarm_clock: [Даты и график проведения соревнования](https://codalab.lisn.upsaclay.fr/competitions/9538#learn_the_details-terms_and_conditions)
 ### [Таблица результатов](https://codalab.lisn.upsaclay.fr/competitions/9538#results)
 ### [Telegram канал соревнований](https://t.me/rusentne2023)
 
@@ -26,12 +27,6 @@
 * `entity` - объект анализа тональности
 * `entity_tag` - тип сущности в рамках PERSON, ORGANIZATION, PROFESSION, COUNTRY, NATIONALITY
 * `label` - метка тональности (0 - нейтрально, - 1 - отрицательно, 1 - положительно)
-
-## График проведения соревнования:
-* 15 декабря — публикация обучающих данных;
-* 15 февраля — публикация тестовых данных;
-* 28 февраля — подведение итогов соревнования;
-* 25 марта — подача статей.
 
 ## Организаторы:
 * Лукашевич Н.В. (МГУ им. М.В. Ломоносова)
