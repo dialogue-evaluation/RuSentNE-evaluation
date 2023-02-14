@@ -2,8 +2,8 @@
 [![](https://img.shields.io/badge/telegram-blue?logo=telegram)](https://t.me/rusentne2023)
 
 ### [Ссылка на соревнования в системе Codalab](https://codalab.lisn.upsaclay.fr/competitions/9538)
-### :alarm_clock: [Даты и график проведения соревнования](https://codalab.lisn.upsaclay.fr/competitions/9538#learn_the_details-terms_and_conditions)
-### [Таблица результатов](https://codalab.lisn.upsaclay.fr/competitions/9538#results)
+### [:alarm_clock: Даты и график проведения соревнования](https://codalab.lisn.upsaclay.fr/competitions/9538#learn_the_details-terms_and_conditions)
+### [:chart_with_upwards_trend:  Таблица результатов](https://codalab.lisn.upsaclay.fr/competitions/9538#results)
 ### [Telegram канал соревнований](https://t.me/rusentne2023)
 
 ## Описание:
