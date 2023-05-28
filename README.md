@@ -1,6 +1,10 @@
 # RuSentNE-2023: Соревнование по анализу тональности к именованным сущностям в новостных текстах
 [![](https://img.shields.io/badge/telegram-blue?logo=telegram)](https://t.me/rusentne2023)
 
+> :bell: **28 мая 2023:** соревнования открыты для участия в [Post-evaluation этапа](https://codalab.lisn.upsaclay.fr/competitions/9538#results)
+
+> :book: **26 мая 2023:** результаты и итоги основного (`final`) этапа сформированы в статью
+
 > :exclamation: **26 февраля 2023:** все обновления касательно дат фаз тестирования в первую очередь появляются в [Telegram канале соревнований](https://t.me/rusentne2023).
 
 ### [Ссылка на соревнования в системе Codalab](https://codalab.lisn.upsaclay.fr/competitions/9538)
@@ -35,10 +39,6 @@
 * Голубев А.А. (МГУ им. М.В. Ломоносова)
 * [Русначенко Н.Л.](https://nicolay-r.github.io/) (Newcastle University)
 
-## Ссылки:
-
-[**Codalab:** Named Entity Oriented Sentiment Analysis Task (RuSentNE-2023)](https://codalab.lisn.upsaclay.fr/competitions/9538)
-
 ## Источники:
 
 [Официальная страница задачи RuSentNE на сайте Dialogue-2023](https://www.dialog-21.ru/evaluation/2023/rusentne/)
@@ -46,3 +46,15 @@
 [Официальная информация по конференции Dialogue-2023](https://www.dialog-21.ru/information2023/)
 
 [Telegram канал соревнований](https://t.me/rusentne2023)
+
+
+## Ссылки
+
+```
+@inproceedings{golubev2023rusentne,
+title={{RuSentNE-2023}: {E}valuating Entity-Oriented Sentiment Analysis on Russian News Texts},
+author={Golubev, Anton and Rusnachenko, Nicolay and Loukachevitch, Natalia},
+booktitle={Computational Linguistics and Intellectual Technologies: papers from the Annual conference ``Dialogue''},
+year={2023}
+}
+```
