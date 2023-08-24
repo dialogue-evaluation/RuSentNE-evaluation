@@ -29,7 +29,7 @@
 Участникам предлагается задача извлечения из новостных текстов тональности трёх классов (негативная, позитивная, нейтральная) по отношению к заранее размеченным сущностям типа PERSON, ORGANIZATION, PROFESSION, COUNTRY, NATIONALITY в рамках отдельного предложения.
 
 ### Базовый подход
-* `baseline_submission.zip` -- применение классификатора на основе модели [RuBERT](https://huggingface.co/DeepPavlov/rubert-base-cased) взятой в исходном состоянии.
+* `baseline_submission.zip` -- применение классификатора на основе модели [RuBERT](https://huggingface.co/DeepPavlov/rubert-base-cased) (см. описание применения в [тексте статьи](https://www.dialog-21.ru/media/5896/golubevaplusetal118.pdf))
 
 ### Формат данных
 * `sentence` - предложение
@@ -52,11 +52,11 @@
 
 ## Ссылки
 
-```
+```bibtex
 @inproceedings{golubev2023rusentne,
-title={{RuSentNE-2023}: {E}valuating Entity-Oriented Sentiment Analysis on Russian News Texts},
-author={Golubev, Anton and Rusnachenko, Nicolay and Loukachevitch, Natalia},
-booktitle={Computational Linguistics and Intellectual Technologies: papers from the Annual conference ``Dialogue'' (arxiv:2305.17679},
-year={2023}
+    title={{RuSentNE-2023}: {E}valuating Entity-Oriented Sentiment Analysis on Russian News Texts},
+    author={Golubev, Anton and Rusnachenko, Nicolay and Loukachevitch, Natalia},
+    booktitle={Computational Linguistics and Intellectual Technologies: papers from the Annual conference ``Dialogue'' (arxiv:2305.17679},
+    year={2023}
 }
 ```
