@@ -2,6 +2,8 @@
 [![](https://img.shields.io/badge/telegram-blue?logo=telegram)](https://t.me/rusentne2023)
 [![arXiv](https://img.shields.io/badge/arXiv-2305.17679-b31b1b.svg)](https://arxiv.org/abs/2305.17679)
 
+> :bell: **19 апреля 2024:** [опубликован pre-print версии статьи на arXiv](https://arxiv.org/abs/2404.12342) с первыми ислледованиями применения генеративных инструктивных Large Language Models
+> в направлении [Reasoning with Chain-of-Thoughts](https://arxiv.org/pdf/2305.11255.pdf), в рамках которых удалось поставить результат, превышающий результат [#1 HAMAM model](https://www.dialog-21.ru/media/5923/podberezkopplusetal112.pdf) на основе prompt-tuning [Flan-T5-xl](https://huggingface.co/google/flan-t5-xl).
 
 > :bell: **28 мая 2023:** соревнования открыты для участия в [Post-evaluation этапа](https://codalab.lisn.upsaclay.fr/competitions/9538#results)
 
