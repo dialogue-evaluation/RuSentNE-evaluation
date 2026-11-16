@@ -2,6 +2,8 @@
 [![](https://img.shields.io/badge/telegram-blue?logo=telegram)](https://t.me/rusentne2023)
 [![arXiv](https://img.shields.io/badge/arXiv-2305.17679-b31b1b.svg)](https://arxiv.org/abs/2305.17679)
 
+> :bell: **16 ноября 2026:** переход на codabench хостинг в связи с закрытием codalab платформы. Соревнования доступны https://www.codabench.org/competitions/18623/. История посылок доступна на [legacy codalab](https://codalab.lisn.upsaclay.fr/competitions/9538)
+
 > :bell: **19 апреля 2024:** [опубликован pre-print версии статьи на arXiv](https://arxiv.org/abs/2404.12342) с первыми ислледованиями применения генеративных инструктивных Large Language Models
 > в направлении [Reasoning with Chain-of-Thoughts](https://arxiv.org/pdf/2305.11255.pdf), в рамках которых удалось поставить результат, превышающий результат [#1 HAMAM model](https://www.dialog-21.ru/media/5923/podberezkopplusetal112.pdf) на основе prompt-tuning [Flan-T5-xl](https://huggingface.co/google/flan-t5-xl).
 
@@ -11,7 +13,8 @@
 
 > :exclamation: **26 февраля 2023:** все обновления касательно дат фаз тестирования в первую очередь появляются в [Telegram канале соревнований](https://t.me/rusentne2023).
 
-### [Ссылка на соревнования в системе Codalab](https://codalab.lisn.upsaclay.fr/competitions/9538)
+### [Ссылка на соревнования в системе CodaBench](https://www.codabench.org/competitions/18623/)
+### ~~[Ссылка на соревнования в системе Codalab](https://codalab.lisn.upsaclay.fr/competitions/9538)~~
 ### [:alarm_clock: Даты и график проведения соревнования](https://codalab.lisn.upsaclay.fr/competitions/9538#learn_the_details-terms_and_conditions)
 ### [:chart_with_upwards_trend:  Таблица результатов](https://codalab.lisn.upsaclay.fr/competitions/9538#results)
 ### [:newspaper: Telegram канал соревнований](https://t.me/rusentne2023)
